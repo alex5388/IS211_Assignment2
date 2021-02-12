@@ -1,1 +1,1 @@
-# IS211_Assignment2 coded in Python3. Not fully functional as of yet. Still in development stage.
+# IS211_Assignment2 coded in Python3. Not fully functional. Unable to get list of bdays into proper format.
